@@ -263,6 +263,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1003841474}
     m_Modifications:
+    - target: {fileID: 181417727023710027, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 411633f7d6e9ef44d8a9f8f53e799f4c, type: 2}
     - target: {fileID: 3418662481666896913, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.99
@@ -377,6 +381,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1003841474}
     m_Modifications:
+    - target: {fileID: 181417727023710027, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3d2b7367531b0247a6cdd68a4128d5e, type: 2}
     - target: {fileID: 3418662481666896913, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.55
@@ -434,6 +442,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1003841474}
     m_Modifications:
+    - target: {fileID: 181417727023710027, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 411633f7d6e9ef44d8a9f8f53e799f4c, type: 2}
     - target: {fileID: 3418662481666896913, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.92
@@ -1335,8 +1347,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.23486798, y: 0.49663836, z: -0.14159268, w: 0.82349193}
-  m_LocalPosition: {x: -17.673985, y: 17.435583, z: 1.3062177}
+  m_LocalRotation: {x: 0.29815158, y: 0.26153564, z: -0.08526642, w: 0.9140211}
+  m_LocalPosition: {x: -10.713462, y: 17.25285, z: -8.997519}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1612,7 +1624,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6d4645af53dadcc4d9c80bc8984835b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1717,7 +1729,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6d4645af53dadcc4d9c80bc8984835b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1887,7 +1899,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6d4645af53dadcc4d9c80bc8984835b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2050,7 +2062,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6d4645af53dadcc4d9c80bc8984835b3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2143,6 +2155,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1003841474}
     m_Modifications:
+    - target: {fileID: 181417727023710027, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3d2b7367531b0247a6cdd68a4128d5e, type: 2}
     - target: {fileID: 3418662481666896913, guid: e3c7c415c8a4dd14f8762e1ae136004b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.847
