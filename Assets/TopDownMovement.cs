@@ -53,6 +53,7 @@ public class TopDownMovement : MonoBehaviour
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>().normalized;
+        Debug.Log("Moving!");
         
     }
 
