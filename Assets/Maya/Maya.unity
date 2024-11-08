@@ -281,7 +281,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -937,6 +937,7 @@ GameObject:
   - component: {fileID: 1335221008}
   - component: {fileID: 1335221007}
   - component: {fileID: 1335221014}
+  - component: {fileID: 1335221015}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1258,6 +1259,14 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!81 &1335221015
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335221006}
+  m_Enabled: 1
 --- !u!1 &1504157961
 GameObject:
   m_ObjectHideFlags: 0
@@ -1268,7 +1277,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1504157964}
   - component: {fileID: 1504157963}
-  - component: {fileID: 1504157962}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1276,14 +1284,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1504157962
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1504157961}
-  m_Enabled: 1
 --- !u!20 &1504157963
 Camera:
   m_ObjectHideFlags: 0
