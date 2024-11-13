@@ -18,6 +18,7 @@ public class TopDownMovement : MonoBehaviour
     
     private Vector2 moveInput;
     private Rigidbody2D rb;
+    [SerializeField] private Animator animator;
     
     void Awake()
     {
@@ -29,7 +30,10 @@ public class TopDownMovement : MonoBehaviour
 
     private void Update()
     {
-        
+        if (Mathf.Abs(moveInput.x)<0.01 && Mathf.Abs(moveInput.y) < 0.01)
+        {
+            animator.SetBool("IsRunning", false);
+        }
     }
     
     private void FixedUpdate()
@@ -54,7 +58,8 @@ public class TopDownMovement : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>().normalized;
         Debug.Log("Moving!");
-        
+        animator.SetBool("IsRunning",true);
+
     }
 
     public void Action1(InputAction.CallbackContext context)
