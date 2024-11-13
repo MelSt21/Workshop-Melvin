@@ -10,7 +10,7 @@ public class DialougeManager : MonoBehaviour
     public TMP_Text dialougeText;
     public Animator animator;
     private Queue<string> sentences;
-    public TopDownMovement thisPlayer;
+    public PlatformerMovement thisPlayer;
     
     // Start is called before the first frame update
     void Start()

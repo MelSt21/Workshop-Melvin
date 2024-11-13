@@ -58,6 +58,7 @@ public class PlatformerMovement : MonoBehaviour
         if (jumpInput && wasGrounded)
         {
             velocity.y = jumpForce;
+            animator.SetBool("IsJumping", true);
             jumpInput = false;
         }
 
@@ -104,6 +105,7 @@ public class PlatformerMovement : MonoBehaviour
         if (moveInput.x < -0.01f || moveInput.x > 0.01)
         {
             animator.SetBool("IsRunning", true);
+            
         }
         else
         {
@@ -126,6 +128,7 @@ public class PlatformerMovement : MonoBehaviour
         // Is our groundCheckCollider touching the groundLayer? If so, return the value "true"
         if (groundCheckCollider.IsTouchingLayers(groundLayer))
         {
+            animator.SetBool("IsJumping", false);
             return true;
         }
         else
