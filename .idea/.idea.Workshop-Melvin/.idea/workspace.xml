@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164cedf0-a9db-4ed3-8e70-b7a3d5cbbaca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/Maya animation.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/Maya animation.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/Maya.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Maya/Maya.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/Props sheet 1_3.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/Props sheet 1_3.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/gremlin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Maya/W3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Maya/W3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Maya/nomnom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Maya/nomnom.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Square.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Square.controller.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731069076598</updated>
       <workItem from="1731069077824" duration="2810000" />
-      <workItem from="1731502470762" duration="325000" />
+      <workItem from="1731502470762" duration="1088000" />
     </task>
     <servers />
   </component>
