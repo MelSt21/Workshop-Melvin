@@ -812,8 +812,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74b981b38b2d24d4196f522c15755cb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: {fileID: 0}
-  dialougeText: {fileID: 0}
+  nameText: {fileID: 514910194}
+  dialougeText: {fileID: 1334006923}
   animator: {fileID: 131045855}
   thisPlayer: {fileID: 2039152999}
 --- !u!4 &603961360
@@ -1310,7 +1310,7 @@ GameObject:
   - component: {fileID: 1334006924}
   - component: {fileID: 1334006923}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Dialouge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
