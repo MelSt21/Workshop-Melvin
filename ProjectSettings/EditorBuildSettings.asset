@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Maya/W3.unity
     guid: 55945b06903875047b45b553a6ee43a7
+  - enabled: 1
+    path: Assets/Scenes/AntonPLatformer.unity
+    guid: 7b03bb62399b0a341889e3052164ba60
   m_configObjects: {}
