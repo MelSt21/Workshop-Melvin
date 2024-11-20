@@ -1229,6 +1229,10 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: 1677bd60-b8d2-4caf-94e0-24d01ca6fe58
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 279757d4-346b-4817-9af8-68fae8748e4d
+    m_ActionName: Player/Jump[/Keyboard/space]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player
@@ -3197,6 +3201,14 @@ PrefabInstance:
       value: 4278190080
       objectReference: {fileID: 0}
     - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0.9868
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0.9591
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
       propertyPath: m_LocalScale.x
       value: 1027.5056
       objectReference: {fileID: 0}
@@ -3235,6 +3247,14 @@ PrefabInstance:
     - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -393.24146
+      objectReference: {fileID: 0}
+    - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -230.18631
       objectReference: {fileID: 0}
     - target: {fileID: 8968528020739800499, guid: 4fe1532ed78c12f449cc9108dea20e70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
