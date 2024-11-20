@@ -2945,6 +2945,22 @@ PrefabInstance:
       propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3391404689030608899, guid: 7efabe9f23b7ada4da897e2bf9a9578b, type: 3}
+      propertyPath: m_Size.x
+      value: 2.203663
+      objectReference: {fileID: 0}
+    - target: {fileID: 3391404689030608899, guid: 7efabe9f23b7ada4da897e2bf9a9578b, type: 3}
+      propertyPath: m_Size.y
+      value: 2.96875
+      objectReference: {fileID: 0}
+    - target: {fileID: 3391404689030608899, guid: 7efabe9f23b7ada4da897e2bf9a9578b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1552761661, guid: 3959579764e4b624ba95efd125c6d1ed, type: 3}
+    - target: {fileID: 3391404689030608899, guid: 7efabe9f23b7ada4da897e2bf9a9578b, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4146450051410380467, guid: 7efabe9f23b7ada4da897e2bf9a9578b, type: 3}
       propertyPath: m_Name
       value: GameObject (Animation 1 - Walking
