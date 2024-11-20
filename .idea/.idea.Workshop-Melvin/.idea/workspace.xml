@@ -4,7 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="164cedf0-a9db-4ed3-8e70-b7a3d5cbbaca" name="Changes" comment="" />
+    <list default="true" id="164cedf0-a9db-4ed3-8e70-b7a3d5cbbaca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/New Palette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/New Palette.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Move.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Move.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Movement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/2dteo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/2dteo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_7.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_7.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_8.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_8.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_9.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_9.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Square.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Square.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pal.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pal.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/playerAct.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/playerAct.inputactions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +67,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Assets/TrigEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Reflection/Optimization/InstanceActionInvoker_3.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -29,7 +80,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -94,7 +144,6 @@
       <updated>1731069076598</updated>
       <workItem from="1731069077824" duration="2810000" />
       <workItem from="1731502470762" duration="1088000" />
-      <workItem from="1732108098070" duration="601000" />
     </task>
     <servers />
   </component>
