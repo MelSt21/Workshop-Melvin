@@ -105,6 +105,10 @@ PrefabInstance:
       value: GameObject (Animation 1 - Walking Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2211884500492341992, guid: 969cf029078a0ef489ba9185bc29b1fd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7e289d9f616900247ab3bc0d3e11d35b, type: 3}
+    - target: {fileID: 2211884500492341992, guid: 969cf029078a0ef489ba9185bc29b1fd, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
