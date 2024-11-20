@@ -64,6 +64,7 @@ public class DialougeManager : MonoBehaviour
         Debug.Log($"Ending Dialouge");
         animator.SetBool("IsOpen",false);
         thisPlayer.controlEnabled = true;
+        thisPlayerTopDown.controlEnabled = true;
     }
     
 }
