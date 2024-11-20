@@ -30,6 +30,9 @@ public class TopDownMovement : MonoBehaviour
 
     private void Update()
     {
+        animator.SetFloat("speedX", moveInput.x);
+        animator.SetFloat("speedY", moveInput.y);
+        
         if (Mathf.Abs(moveInput.x)<0.01 && Mathf.Abs(moveInput.y) < 0.01)
         {
             animator.SetBool("IsRunning", false);

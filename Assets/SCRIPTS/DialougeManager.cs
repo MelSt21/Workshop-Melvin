@@ -11,9 +11,9 @@ public class DialougeManager : MonoBehaviour
     public Animator animator;
     private Queue<string> sentences;
     public PlatformerMovement thisPlayer;
-    
+    public TopDownMovement thisPlayerTopDown;
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         sentences = new Queue<string>();
         
@@ -22,6 +22,7 @@ public class DialougeManager : MonoBehaviour
     public void StartDialouge(Dialouge dialouge)
     {
         thisPlayer.controlEnabled = false;
+        thisPlayerTopDown.controlEnabled = false;
         animator.SetBool("IsOpen",true);
         nameText.text = dialouge.name;
         
@@ -63,6 +64,7 @@ public class DialougeManager : MonoBehaviour
         Debug.Log($"Ending Dialouge");
         animator.SetBool("IsOpen",false);
         thisPlayer.controlEnabled = true;
+        thisPlayerTopDown.controlEnabled = true;
     }
     
 }

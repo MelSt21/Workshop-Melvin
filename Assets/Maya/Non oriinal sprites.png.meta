@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Props sheet 1_0
+      name: Non oriinal sprites_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1137
-        width: 403
-        height: 348
+        x: 26
+        y: 1125
+        width: 400
+        height: 284
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ecd3adc4367d4a4d9dd016968fd1e5f
-      internalID: 1388612032
+      spriteID: 2e90fbb1132cadb4fbb68f22ded9688b
+      internalID: -1068565539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Props sheet 1_1
+      name: Non oriinal sprites_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 432
-        width: 470
-        height: 655
+        x: 720
+        y: 1339
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c657aa9bbff7acc4cb37116ebb13c5d9
-      internalID: -1271404416
+      spriteID: 6c48ee1f64b910341936695f44ad3f31
+      internalID: -1762096607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Props sheet 1_2
+      name: Non oriinal sprites_4
       rect:
         serializedVersion: 2
-        x: 496
-        y: 1044
-        width: 526
-        height: 350
+        x: 781
+        y: 1340
+        width: 15
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cae90f95fe3223409a61ffeb7e7edaa
-      internalID: 55324886
+      spriteID: e73a448f7d633024381effb2a42358d0
+      internalID: 547770028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Props sheet 1_3
+      name: Non oriinal sprites_5
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 50
-        width: 951
-        height: 1307
+        x: 640
+        y: 1326
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,8 +200,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48502309f3c5baa4680d37fd0d027806
-      internalID: 1372504357
+      spriteID: 3fb9214e3ffc4db47b2c5d49d66c2c5b
+      internalID: -1243142934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Non oriinal sprites_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1207
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8882cf30f35384f836b398d093089d
+      internalID: 1238227481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Non oriinal sprites_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1040
+        width: 506
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0b6df14b53c548b0600d896b34bfd
+      internalID: 441237068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Non oriinal sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 58
+        width: 897
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afdc22d3fc54fb459baa6e0ca28999b
+      internalID: -527629674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Non oriinal sprites_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 391
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 197, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7152b95c733a745a51bb662b96c59d
+      internalID: 2017492329
       vertices: []
       indices: 
       edges: []
@@ -217,10 +301,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Props sheet 1_0: 1388612032
-      Props sheet 1_1: -1271404416
-      Props sheet 1_2: 55324886
-      Props sheet 1_3: 1372504357
+      Non oriinal sprites_0: -1068565539
+      Non oriinal sprites_1: -2141804423
+      Non oriinal sprites_10: -1999433233
+      Non oriinal sprites_11: 2017492329
+      Non oriinal sprites_2: 1181189640
+      Non oriinal sprites_3: -1762096607
+      Non oriinal sprites_4: 547770028
+      Non oriinal sprites_5: -1243142934
+      Non oriinal sprites_6: 1238227481
+      Non oriinal sprites_7: 441237068
+      Non oriinal sprites_8: -527629674
+      Non oriinal sprites_9: 1150732723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
