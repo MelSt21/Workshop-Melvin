@@ -1042,6 +1042,10 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: 1677bd60-b8d2-4caf-94e0-24d01ca6fe58
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 279757d4-346b-4817-9af8-68fae8748e4d
+    m_ActionName: Player/Jump[/Keyboard/space]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player
@@ -1107,12 +1111,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -980682818, guid: 0824e6f906abe564ba2d167de37fd868, type: 3}
+  m_Sprite: {fileID: -1824648996, guid: e954be71654197f4ca9c1eed242e4fd1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.29694754, y: 0.21874999}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
