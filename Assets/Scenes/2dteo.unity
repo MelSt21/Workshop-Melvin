@@ -376,16 +376,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 263344196}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b06ec901c137e2749b3f468d0d6bc78e, type: 3}
+  m_Script: {fileID: 11500000, guid: 1af04adf9ffd613418bfec00cf53f9fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 7
-  onAction1:
-    m_PersistentCalls:
-      m_Calls: []
-  onAction2:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!81 &263344204
 AudioListener:
   m_ObjectHideFlags: 0
