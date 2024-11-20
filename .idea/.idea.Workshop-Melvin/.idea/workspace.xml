@@ -5,11 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164cedf0-a9db-4ed3-8e70-b7a3d5cbbaca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/New Palette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/New Palette.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Move.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Move.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Movement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animation.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/2dteo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/2dteo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_7.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_7.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_8.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_8.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_9.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SolariaDemoTiles_9.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Square.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Square.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pal.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pal.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/playerAct.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/playerAct.inputactions.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Workshop-Melvin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/W3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Maya/W3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Maya/nomnom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Maya/nomnom.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Square.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Square.controller.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +65,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Assets/TrigEvent.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -27,29 +76,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\b21mayst\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\b21mayst\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\b21mayst\\AppData\\Local\\Symbols\\src"
-    ]
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../../../2dbuild/Workshop1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\2dbuild" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 2022.3.29f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.29f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\teoman.bayindir\Documents\GitHub\Workshop-Melvin -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\teoman.bayindir\Documents\GitHub\Workshop-Melvin" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -57,7 +107,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity 2022.3.29f1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.29f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\teoman.bayindir\Documents\GitHub\Workshop-Melvin -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\teoman.bayindir\Documents\GitHub\Workshop-Melvin" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -95,6 +145,7 @@
       <updated>1731069076598</updated>
       <workItem from="1731069077824" duration="2810000" />
       <workItem from="1731502470762" duration="1088000" />
+      <workItem from="1731601753090" duration="2274000" />
     </task>
     <servers />
   </component>
