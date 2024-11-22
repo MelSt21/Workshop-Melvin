@@ -379,6 +379,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1af04adf9ffd613418bfec00cf53f9fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxSpeed: 7
+  onAction1:
+    m_PersistentCalls:
+      m_Calls: []
+  onAction2:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!81 &263344204
 AudioListener:
   m_ObjectHideFlags: 0
@@ -702,40 +709,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 763768428}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ccf7b826e5b37041856d5e6ddaa5dbe, type: 3}
+  m_Script: {fileID: 11500000, guid: afd4fae78836f234c9044281cf052f66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tagToActivate: Player
   onTriggerEnter:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 763768428}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   onTriggerExit:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1234111008}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!95 &763768433
 Animator:
   serializedVersion: 5
@@ -1184,40 +1167,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1234111008}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ccf7b826e5b37041856d5e6ddaa5dbe, type: 3}
+  m_Script: {fileID: 11500000, guid: afd4fae78836f234c9044281cf052f66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tagToActivate: Player
   onTriggerEnter:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1234111008}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   onTriggerExit:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 763768428}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!61 &1234111012
 BoxCollider2D:
   m_ObjectHideFlags: 0
